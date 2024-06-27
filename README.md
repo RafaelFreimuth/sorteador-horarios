@@ -1,3 +1,6 @@
 # sorteador-horarios
 
-  Projeto com o objetivo de sortear horários aleatóriamente com base em um arquivo txt, selecionando quantos numeros deseja e quantas vezes quer que seja feito o sorteio
+. Este projeto foi feito com o entuido de adiquirir conhecimento com javascript
+. Onde nesta aplicacão de terminal, é solicitado ao usuário quantos horários e o número de sorteios.
+  . Após isso é lido o arquivo .txt e selecionado aleatóriamente a quantidade de horários que contenha apenas 1 registro por hora. Ex: 10:15 10:20 (Será mantido apenas um deles)
+  
